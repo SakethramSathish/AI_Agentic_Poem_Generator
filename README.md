@@ -1,7 +1,7 @@
-# AI Agentic Poem Generator 2.0
+# AI Agentic Poem Generator
 
 ## Overview
-AI Agentic Poem Generator 2.0 is a Streamlit-based web application that generates poems on any topic using advanced AI agents, reviews the generated poem, and (if approved) publishes it to Pastebin. The app leverages Google Generative AI via LangChain and provides a seamless, interactive user experience.
+AI Agentic Poem Generator is a Streamlit-based web application that generates poems on any topic using advanced AI agents, reviews the generated poem, and (if approved) publishes it to Pastebin. The app leverages Google Generative AI via LangChain and provides a seamless, interactive user experience.
 
 ## Features
 - **Poem Generation:** Enter any topic and generate a creative poem using AI.
