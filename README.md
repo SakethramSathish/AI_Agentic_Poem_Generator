@@ -20,7 +20,7 @@ AI Agentic Poem Generator is a Streamlit-based web application that generates po
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd AI-Agentic-Poem-Generator-2.0
+   cd AI-Agentic-Poem-Generator
    ```
 2. **Install dependencies:**
    ```bash
@@ -68,4 +68,4 @@ This project is licensed under the MIT License.
 - [Streamlit](https://streamlit.io/)
 - [LangChain](https://python.langchain.com/)
 - [Pastebin](https://pastebin.com/)
-- [Google Generative AI](https://ai.google/)
+- [Google Generative AI](https://ai.google.com/)
