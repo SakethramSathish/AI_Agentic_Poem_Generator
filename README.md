@@ -1,4 +1,4 @@
-# Agentic AI Poem Generator 5.0
+# Agentic AI Poem Generator
 
 A modular, agentic AI-powered poetry generator and reviewer built with LangChain, LangGraph, and Streamlit. This project generates original poems on any topic, reviews them with strict criteria, and publishes approved poems to Pastebin.
 
@@ -16,8 +16,8 @@ A modular, agentic AI-powered poetry generator and reviewer built with LangChain
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
-   cd Agentic-AI-Poem-Generator-5.0
+   git clone https://github.com/SakethramSathish/AI_Agentic_Poem_Generator
+   cd AI-Agentic-Poem-Generator
    ```
 2. **Install dependencies:**
    ```sh
