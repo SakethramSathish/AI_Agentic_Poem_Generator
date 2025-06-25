@@ -16,7 +16,7 @@ A modular, agentic AI-powered poetry generator and reviewer built with LangChain
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/SakethramSathish/AI_Agentic_Poem_Generator
+   git clone https://github.com/SakethramSathish/AI_Agentic_Poem_Generator_And_Reviewer
    cd AI-Agentic-Poem-Generator-And-Reviewer
    ```
 2. **Install dependencies:**
